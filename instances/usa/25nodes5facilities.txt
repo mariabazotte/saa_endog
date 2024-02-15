@@ -1,0 +1,95 @@
+25 66 5 3 3
+Miami 571 1 0 0 1
+Atlanta 505 1 1 1 1
+Tampa 268 2 0 0 1
+Orlando 193 2 0 0 0
+Charlotte 152 0 1 0 1
+Jacksonville 122 1 1 0 0
+Nashville 110 0 1 1 0
+Raleigh 106 0 2 0 0
+Memphis 103 0 0 1 1
+Louisville 102 0 1 1 0
+NewOrleans 93 1 0 0 0
+Sarasota 73 2 0 0 0
+Birmingham 70 1 1 1 0
+Charleston 69 1 1 0 0
+CapeCoral 68 2 0 0 0
+Columbia 64 1 1 0 0
+Knoxville 62 0 1 1 0
+BatonRouge 61 0 0 0 0
+PalmBay 53 2 0 0 0
+PortSt.Lucie 47 2 0 0 0
+LittleRock 46 0 0 0 0
+Greenville 45 1 1 1 0
+Winston-Salem 42 0 2 0 0
+Augusta 41 1 1 0 0
+PalmCoast 40 2 1 0 0
+Nashville Birmingham 293.660
+Columbia Greenville 158.880
+Greenville Winston-Salem 239.308
+Jacksonville Charleston 324.194
+Charlotte Columbia 130.725
+Charlotte Greenville 146.447
+CapeCoral PortSt.Lucie 177.712
+Memphis Louisville 516.675
+Memphis Birmingham 338.208
+Atlanta Nashville 340.718
+Tampa Jacksonville 271.835
+NewOrleans Birmingham 488.753
+Tampa Sarasota 73.435
+Louisville LittleRock 714.955
+Sarasota CapeCoral 92.488
+Miami CapeCoral 199.700
+Atlanta Birmingham 222.254
+Charleston Augusta 203.492
+Atlanta Greenville 225.605
+Nashville Memphis 312.473
+Columbia Augusta 132.929
+Knoxville Winston-Salem 331.593
+Raleigh Charleston 360.547
+PalmBay PortSt.Lucie 79.196
+Raleigh PortSt.Lucie 970.138
+Raleigh Winston-Salem 147.515
+CapeCoral PalmBay 201.026
+Orlando PalmBay 86.091
+Jacksonville Birmingham 593.402
+Louisville Knoxville 285.379
+Miami Raleigh 1130.921
+NewOrleans Sarasota 778.263
+Orlando PalmCoast 118.194
+BatonRouge LittleRock 486.598
+Memphis BatonRouge 529.489
+NewOrleans CapeCoral 859.186
+Atlanta Jacksonville 455.141
+Louisville Winston-Salem 525.461
+Memphis LittleRock 223.106
+NewOrleans BatonRouge 122.770
+Tampa NewOrleans 761.855
+Miami PortSt.Lucie 165.355
+Charleston PalmBay 544.889
+Jacksonville PalmCoast 95.991
+Raleigh Louisville 668.195
+Atlanta Augusta 221.459
+Charleston PortSt.Lucie 616.957
+Knoxville Greenville 189.265
+Nashville Knoxville 255.296
+Raleigh Columbia 290.471
+Charlotte Raleigh 210.867
+Greenville Augusta 165.250
+PalmBay PalmCoast 181.674
+CapeCoral BatonRouge 981.758
+Charlotte Winston-Salem 113.206
+Memphis NewOrleans 557.980
+Jacksonville Augusta 337.733
+Tampa Orlando 123.228
+Tampa Birmingham 732.554
+Tampa PalmBay 176.350
+Atlanta Knoxville 249.939
+Sarasota PalmBay 201.562
+Charleston Columbia 159.183
+Nashville Louisville 244.867
+Tampa PalmCoast 210.700
+Charleston PalmCoast 387.451
+Tampa 0.100
+Raleigh 0.050
+Huntsville 0.100

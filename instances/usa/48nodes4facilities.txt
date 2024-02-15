@@ -1,0 +1,183 @@
+48 131 4 3 3
+Miami 571 1 0 0 1
+Atlanta 505 1 1 1 1
+Tampa 268 2 0 0 1
+Orlando 193 2 0 0 0
+Charlotte 152 0 1 0 1
+Jacksonville 122 1 1 0 0
+Nashville 110 0 1 1 0
+Raleigh 106 0 2 0 0
+Memphis 103 0 0 1 0
+Louisville 102 0 1 1 0
+NewOrleans 93 1 0 0 0
+Sarasota 73 2 0 0 0
+Birmingham 70 1 1 1 0
+Charleston 69 1 1 0 0
+CapeCoral 68 2 0 0 0
+Columbia 64 1 1 0 0
+Knoxville 62 0 1 1 0
+BatonRouge 61 0 0 0 0
+PalmBay 53 2 0 0 0
+PortSt.Lucie 47 2 0 0 0
+LittleRock 46 0 0 0 0
+Greenville 45 1 1 1 0
+Winston-Salem 42 0 2 0 0
+Augusta 41 1 1 0 0
+PalmCoast 40 2 1 0 0
+Chattanooga 40 0 1 1 0
+Kissimmee 40 2 0 0 0
+Durham 40 0 2 0 0
+Fayetteville 38 0 0 0 0
+Pensacola 36 1 0 0 0
+BonitaSprings 35 2 0 0 0
+Greensboro 35 0 2 0 0
+Huntsville 34 0 1 2 0
+Fayetteville 33 0 2 0 0
+Jackson 33 0 0 0 0
+Mobile 32 1 0 0 0
+Lexington 32 0 1 0 0
+Asheville 32 0 1 1 0
+Lakeland 31 2 0 0 0
+Savannah 29 1 1 0 0
+Shreveport 29 0 0 0 0
+MyrtleBeach 28 1 1 0 0
+Concord 26 0 1 0 0
+Columbus 26 1 1 1 0
+St.Petersburg 26 2 0 0 0
+Tallahassee 26 1 0 0 0
+Lafayette 25 0 0 0 0
+Montgomery 25 1 0 1 0
+Columbia Greenville 159.024
+NewOrleans Jackson 248.863
+Chattanooga Huntsville 134.423
+BonitaSprings Lafayette 1087.485
+St.Petersburg Tallahassee 327.981
+PalmBay Kissimmee 82.498
+Memphis Louisville 516.805
+Greenville Asheville 83.155
+Birmingham Jackson 349.256
+Sarasota CapeCoral 92.354
+Tampa Sarasota 73.215
+Birmingham Columbus 210.310
+Augusta Columbus 281.305
+Asheville Concord 174.281
+Columbia Augusta 132.972
+PalmBay PortSt.Lucie 79.002
+Sarasota St.Petersburg 51.067
+Orlando PalmCoast 117.855
+LittleRock Shreveport 284.379
+Winston-Salem Asheville 216.102
+Louisville Fayetteville 793.634
+Jacksonville Savannah 194.973
+Durham Lexington 539.915
+Memphis Huntsville 307.113
+NewOrleans Pensacola 268.980
+PortSt.Lucie MyrtleBeach 731.315
+Greensboro Fayetteville 134.697
+Pensacola Tallahassee 283.608
+Orlando Kissimmee 20.923
+Greensboro Concord 108.173
+Birmingham Montgomery 138.819
+Memphis Jackson 309.978
+Miami BonitaSprings 168.532
+BatonRouge Lafayette 91.335
+Fayetteville Concord 153.666
+Tampa Tallahassee 319.375
+CapeCoral PortSt.Lucie 177.796
+Pensacola Montgomery 229.985
+Durham Greensboro 83.739
+Atlanta Birmingham 222.652
+Atlanta Greenville 225.736
+Charleston Augusta 203.817
+Miami MyrtleBeach 890.607
+Tampa Lakeland 49.206
+LittleRock Fayetteville 221.271
+Columbia MyrtleBeach 189.063
+Louisville Knoxville 285.228
+CapeCoral BonitaSprings 37.411
+Memphis LittleRock 223.514
+NewOrleans BatonRouge 122.925
+Durham Fayetteville 100.012
+Atlanta Augusta 221.857
+Knoxville Greenville 189.353
+NewOrleans Mobile 188.828
+Atlanta Huntsville 227.749
+PortSt.Lucie Lakeland 174.589
+Atlanta Knoxville 249.437
+Charleston PalmBay 543.446
+BatonRouge Jackson 225.652
+Atlanta Chattanooga 162.030
+Tampa PalmCoast 210.354
+PalmCoast Savannah 275.780
+Charleston Savannah 145.774
+Pensacola Mobile 92.480
+Charlotte Columbia 130.451
+Pensacola St.Petersburg 523.846
+PalmBay MyrtleBeach 664.255
+Raleigh MyrtleBeach 237.968
+Charlotte Fayetteville 168.608
+NewOrleans BonitaSprings 892.683
+Sarasota Pensacola 562.304
+Nashville Memphis 312.902
+Sarasota Lakeland 99.900
+Columbus Tallahassee 233.479
+Charleston MyrtleBeach 143.518
+Kissimmee Lakeland 60.604
+Orlando PalmBay 86.076
+Knoxville Asheville 132.829
+NewOrleans CapeCoral 859.885
+Jacksonville Tallahassee 248.601
+Columbus Montgomery 132.621
+Raleigh Durham 28.152
+Savannah Columbus 351.375
+Winston-Salem Lexington 427.019
+Memphis Fayetteville 395.160
+Jackson Montgomery 372.922
+Tallahassee Montgomery 280.853
+BatonRouge Shreveport 336.671
+Fayetteville Shreveport 399.800
+Louisville Lexington 104.880
+Columbia Fayetteville 213.819
+NewOrleans Lafayette 204.449
+Atlanta Columbus 145.979
+Charlotte Greenville 146.667
+PalmBay Lakeland 128.160
+Memphis Birmingham 338.545
+Savannah Tallahassee 345.079
+Tampa Jacksonville 271.133
+Jackson Shreveport 338.946
+Lexington Asheville 320.659
+PortSt.Lucie BonitaSprings 176.240
+Charlotte Concord 27.347
+Knoxville Chattanooga 155.924
+Fayetteville MyrtleBeach 153.076
+PalmCoast Lakeland 180.029
+Nashville Huntsville 163.741
+Mobile Montgomery 257.647
+Tampa St.Petersburg 31.670
+LittleRock Jackson 331.295
+Winston-Salem Greensboro 38.926
+NewOrleans Sarasota 779.055
+Shreveport Lafayette 299.121
+Jacksonville PalmCoast 95.815
+Augusta Savannah 168.042
+Miami PortSt.Lucie 164.843
+Nashville Knoxville 255.827
+Nashville Chattanooga 184.120
+PalmBay PalmCoast 181.240
+Greenville Augusta 164.916
+Knoxville Lexington 234.241
+Raleigh Fayetteville 89.295
+Greensboro Lexington 460.910
+Jackson Mobile 267.444
+Birmingham Huntsville 130.653
+Winston-Salem Concord 86.642
+Orlando Lakeland 77.942
+CapeCoral Lakeland 155.602
+Charlotte Asheville 160.548
+Charleston Columbia 159.041
+Nashville Louisville 244.574
+Charleston PalmCoast 386.582
+Tampa 0.100
+Raleigh 0.050
+Huntsville 0.100

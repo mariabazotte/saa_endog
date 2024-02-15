@@ -1,0 +1,55 @@
+15 36 5 3 3
+Miami 571 1 0 0 1
+Atlanta 505 1 1 1 1
+Tampa 268 2 0 0 1
+Orlando 193 2 0 0 0
+Charlotte 152 0 1 0 1
+Jacksonville 122 1 1 0 0
+Nashville 110 0 1 1 1
+Raleigh 106 0 2 0 0
+Memphis 103 0 0 1 0
+Louisville 102 0 1 1 0
+NewOrleans 93 1 0 0 0
+Sarasota 73 2 0 0 0
+Birmingham 70 1 1 1 0
+Charleston 69 1 1 0 0
+CapeCoral 68 2 0 0 0
+Nashville Birmingham 293.660
+Charlotte Louisville 536.190
+Charlotte Nashville 545.774
+Jacksonville Charleston 324.194
+Orlando Charleston 503.251
+Memphis Louisville 516.675
+Memphis Birmingham 338.208
+Atlanta Nashville 340.718
+Tampa Jacksonville 271.835
+Tampa Sarasota 73.435
+NewOrleans Birmingham 488.753
+Miami CapeCoral 199.700
+Sarasota CapeCoral 92.488
+Atlanta Birmingham 222.254
+Nashville Memphis 312.473
+Raleigh Charleston 360.547
+Jacksonville Birmingham 593.402
+Miami Raleigh 1130.921
+NewOrleans Sarasota 778.263
+Atlanta Jacksonville 455.141
+NewOrleans CapeCoral 859.186
+Miami Charleston 780.623
+Tampa NewOrleans 761.855
+Raleigh Louisville 668.195
+Charlotte Raleigh 210.867
+Orlando Jacksonville 206.964
+Orlando Sarasota 176.503
+Orlando CapeCoral 215.134
+Charlotte Charleston 275.885
+Miami Orlando 313.791
+Memphis NewOrleans 557.980
+Atlanta Charlotte 369.348
+Tampa Orlando 123.228
+Atlanta Charleston 424.642
+Tampa Birmingham 732.554
+Nashville Louisville 244.867
+Tampa 0.100
+Raleigh 0.050
+Huntsville 0.100

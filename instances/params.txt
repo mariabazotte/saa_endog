@@ -1,0 +1,5 @@
+nbProtectionLevelsFacilities=4
+facilitiesImpact=0.3
+penaltyUnmetDemand=10
+objectiveOrConstriantWithInstallCost=0
+noDisrUncertain=1
