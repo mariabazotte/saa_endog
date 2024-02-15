@@ -11,7 +11,7 @@ i=1
 solver=3
 verbose=0
 timelimit=14400
-nbvalscenarios=150000
+nbvalscenarios=50000
 param=../instances/params.txt
 
 for seed in 0 1000 2000 3000 4000
