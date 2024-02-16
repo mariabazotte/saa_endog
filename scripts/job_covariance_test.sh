@@ -8,9 +8,14 @@
 
 i=1
 
-for network in ../instances/usa/15nodes4facilities.txt 
+if [ $SLURM_ARRAY_TASK_ID -eq $i ]
+then
+    cd ../src/
+fi
+
+for network in ../data/usa/15nodes4facilities.txt 
 do
-    for param in ../instances/params.txt
+    for param in ../data/params.txt
     do 
         for d in 0 1 2 3
         do

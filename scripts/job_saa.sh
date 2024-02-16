@@ -8,17 +8,22 @@
 
 i=1
 
+if [ $SLURM_ARRAY_TASK_ID -eq $i ]
+then
+    cd ../src/
+fi
+
 solver=0
 verbose=0
 timelimit=14400
 nbproblems=50
 nbscenarios=750
 nbvalscenarios=50000
-param=../instances/params.txt
+param=../data/params.txt
 
 for seed in 0 1000 2000 3000 4000
 do 
-    for network in ../instances/usa/15nodes4facilities.txt ../instances/usa/25nodes4facilities.txt ../instances/usa/30nodes4facilities.txt ../instances/usa/39nodes4facilities.txt ../instances/usa/48nodes4facilities.txt ../instances/usa/15nodes5facilities.txt ../instances/usa/25nodes5facilities.txt ../instances/usa/30nodes5facilities.txt ../instances/usa/39nodes5facilities.txt ../instances/usa/48nodes5facilities.txt
+    for network in ../data/usa/15nodes4facilities.txt ../data/usa/25nodes4facilities.txt ../data/usa/30nodes4facilities.txt ../data/usa/39nodes4facilities.txt ../data/usa/48nodes4facilities.txt ../data/usa/15nodes5facilities.txt ../data/usa/25nodes5facilities.txt ../data/usa/30nodes5facilities.txt ../data/usa/39nodes5facilities.txt ../data/usa/48nodes5facilities.txt
     do
         for budget in 0.5
         do

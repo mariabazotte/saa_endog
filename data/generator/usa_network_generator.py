@@ -211,7 +211,7 @@ class Data():
     
     def writeFile(self):
         # Writing file
-        name = '../instances/usa/' + str(self.nb_nodes) + 'nodes' + str(self.nb_facilities) + 'facilities.txt'
+        name = '../usa/' + str(self.nb_nodes) + 'nodes' + str(self.nb_facilities) + 'facilities.txt'
         with open(name, 'w') as f:
             f.write( "%d %d %d %d %d\n" % (self.nb_nodes,self.nb_edges,self.nb_facilities,nb_disr_type,nb_disr_level))
             for i in range(self.nb_nodes):
