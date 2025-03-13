@@ -85,17 +85,17 @@ The results are saved in a repository such as:
 - results
     - compiled 
     - saa 
-        - discretechoice 
+        - discreteselection
         - binomial 
         - stdnormalization 
         - normal
     - expected 
-        - discretechoice 
+        - discreteselection
         - binomial 
         - stdnormalization 
         - normal 
     - linearization: 
-        - discretechoice
+        - discreteselection
 
 Each test generates a separate `.csv` file in the folder corresponding to the method—saa (SAA-TP), expected (EV problem), or linearization (DE-OP)—and the endogenous distribution, which can be discrete choice/selection, binomial, stdnormalization, discrete, or normal. The folder `results/compiled` contains an Excel file that compiles the experimental results for the paper. This file includes sheets for each specific instance configuration, providing detailed information about all tests. The data for Table 1 is stored in the `tables_mean` sheet, while Tables 2 and 3 are in `tables_ev_mean` sheet. Figure 1 is based on data from `tables_per_seed` sheet. The table in Appendix K also uses `tables_per_seed` sheet, it considers only instances with seed 0. Similarly, the table in Appendix M is found in `ev_tables_per_seed` sheet and considers instances with seed 0. Finally, the table in Appendix N is contained in `ev_tables_mean` sheet.
 
