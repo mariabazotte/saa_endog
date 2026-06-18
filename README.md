@@ -3,7 +3,7 @@
 ## Description
 
 This project contains the code for the paper "Solving Two-Stage Programs with Endogenous
-Uncertainty via Random Variable Transformation". It contains the implementation of the two-stage Network Design and Facility Protection Problem (NDFPP) with endogenous uncertainty introduced in this paper.
+Uncertainty via Random Variable Transformation" by Maria Bazotte, Margarida Carvalho, and Thibaut Vidal (https://pubsonline.informs.org/doi/10.1287/ijoc.2024.0847 https://arxiv.org/abs/2402.15486). It contains the implementation of the two-stage Network Design and Facility Protection Problem (NDFPP) with endogenous uncertainty introduced in this paper.
 
 ## Building
 
